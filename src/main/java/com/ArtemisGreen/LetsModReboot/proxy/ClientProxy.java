@@ -1,7 +1,7 @@
 package com.ArtemisGreen.LetsModReboot.proxy;
 
 
-public class ClientProxy
+public class ClientProxy extends CommonProxy
 {
 
 }
